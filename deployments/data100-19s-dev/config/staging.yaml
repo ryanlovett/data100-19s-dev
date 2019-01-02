@@ -1,0 +1,4 @@
+homeDirectories:
+  nfs:
+    serverIP: 10.240.0.7
+    serverName: homes
